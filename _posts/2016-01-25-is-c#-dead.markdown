@@ -3,14 +3,14 @@ layout: post
 title:  "Is C# dead?"
 date:   2016-01-06 20:44:24 +0100
 categories: .net
-excerpt: "When C# came out, it was a fresh start for a language that took the best of Java, C++ and it also introduced its own features. 15 years later, C# is one of most beatiful programming languages but, is has lost momentum?"
+excerpt: "When C# came out, it was a fresh start for a language that took the best of Java, C++ and it also introduced its own features. 15 years later, C# is one of most beautiful programming languages but, is has lost momentum?"
 ---
 
 Frankly, C# is my favourite language. It's one of the most mature languages that stay modern. But, what happened with C# in the last years?
 
 Do you know what most people call *momentum*? Has C# *momentum* yet? It seems like C# is very tied to Windows development, either to develop apps (desktop, mobile...) or server backends, and it has never reached (and probably never will reach) the Web (well, you know, when Rich Internet Apps had their *momentum*, Microsoft came with Silverlight and C# had a chance as Web development language...). 
 
-While all Microsoft attempts to succeed on mobile arena have been a fail, there's a market where the Redmond-based company is shines: cloud computing. Microsoft Azure (formerly known as *Windows Azure*) is a great collection of IaaS/SaaS hosted services spread across multiple Microsoft datacenters around the world. C# and .NET are one of possible consumers of these services, but obviously, since .NET is a Microsoft product after all, there's a great and powerful tooling and libraries available to Visual Studio developers.
+While all Microsoft attempts to succeed on mobile arena have been a fail, there's a market where the Redmond-based company shines: cloud computing. Microsoft Azure (formerly known as *Windows Azure*) is a great collection of IaaS/SaaS hosted services spread across multiple Microsoft datacenters around the world. C# and .NET are one of possible consumers of these services, but obviously, since .NET is a Microsoft product after all, there's a great and powerful tooling and libraries available to Visual Studio developers.
 
 Also, if you're a mobile app developer, you'll know that implementing apps can be very tedious task if you need to deliver it to many platforms like Android, iOS, Windows Phone and others (*basically you would need to develop an app for each plataform you want to target your product...*). If you don't know [*Xamarin*](http://xamarin.com/), it's a framework that let you build mobile apps targeting your favourite mobile operating systems allowing you to implement your apps using a shared code base. And guess what? Yes, [*Xamarin*](http://xamarin.com/) uses C#. This is like a second chance for C# to go beyond its roots on Windows.
 
@@ -25,9 +25,3 @@ C# is now mature but unlike many other programming languages, it has been receiv
 Recently, when .NET 4.6 came out, we also received the new and great C# compiler formerly known *Roslyn*, and we also could see how finally Microsoft open-sourced .NET. That is, now community can participate and contribute to improve the platform.
 
 While its future is unclear in terms of frontend programming, it seems like it has its niche market on server programming and backend technologies, and also gaming.
-
-
-
-
-
-
