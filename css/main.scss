@@ -114,3 +114,9 @@ $on-laptop:        800px;
 	    align-items: center;
 	}
 }
+
+img.parallax-slider {
+    left: 0 !important;
+    right: 0 !important;
+    max-width: 100% !important;
+}

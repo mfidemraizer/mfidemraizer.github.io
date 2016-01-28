@@ -6,6 +6,8 @@ categories: javascript
 excerpt: "When you check some ESNext code and you see a decorator, if you're a C# or Java developer, you might think that finally meta-programming has arrived to JavaScript. Actually not. But decorators are still very useful!"
 ---
 
+<img src="/img/js.jpg" style="width: 20vw;height: 20vw; margin: 0 auto;display: block;margin-bottom: 40px">
+
 JavaScript is evolving very fast. Newer ECMA-Script specifications have finally added class-based object-oriented programming (sadly, I don't see any intention to implement actual encapsulation with access modifiers like `private` or `public`...).
 
 While class-based object-oriented programming is just a layer on top of regular ECMA-Script 5.x (I mean *classes* are just syntactic sugar over regular prototypal inheritance), there's still no way to extend the language using metadata programming like you would find in C#:
