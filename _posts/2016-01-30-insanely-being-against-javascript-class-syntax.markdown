@@ -48,7 +48,7 @@ Current generation languages are considered *high-level languages*. That is, **t
 
 For example, when we look at some chair, do our brain see the concrete chair or...
 
-1. Catalogues what's being observed as **object**.
+1. Catalogs/identifies what's being observed as an **object** *(it could be a person, couldn't be?)*.
 2. Once our mind know that what's being observed is an *object*, it tries to find a *template* to what's being observed. It has that form, four legs...
 3. Yes, it's a chair! 
 4. Let's see its details... Yes, it's a *stately chair* (*StatelyChair is Chair*).
