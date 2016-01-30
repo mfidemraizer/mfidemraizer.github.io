@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Are you insanely againsts JavaScript class syntax?"
-date:   2016-01-28 17:30:00 +0100
+title:  "Are you insanely against JavaScript class syntax?"
+date:   2016-01-30 17:30:00 +0100
 categories: javascript
 excerpt: "What's behind these JavaScript developers arguing that JavaScript class syntax is a wrong language design decision?"
 ---
 
 
-<img src="/img/chair.jpg" style="width: 20vw;height: 20vw; margin: 0 auto;display: block;margin-bottom: 40px">
+<img src="/img/chair.JPG" style="width: 20vw;height: 20vw; margin: 0 auto;display: block;margin-bottom: 40px">
 
 Actually it's not the first time I've heard about people arguing against JavaScript class syntax. I mean this:
 
