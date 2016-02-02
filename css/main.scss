@@ -120,3 +120,15 @@ img.parallax-slider {
     right: 0 !important;
     max-width: 100% !important;
 }
+
+.post-tag-container {
+	    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 0.8rem;
+}
+
+.post-tag-container h3 {
+	    margin: 0;
+    padding-right: 10px;
+}

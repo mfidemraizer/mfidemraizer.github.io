@@ -12,11 +12,15 @@ layout: default
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}#disqus_thread">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
 		<div>
  			{{ post.excerpt | remove: '<p>' | remove: '</p>' }}<a href="{{ post.url | prepend: site.baseurl }}">...read the full story!</a>
 		</div>
+    <div class="post-tag-container">
+      <h3>Tags</h3>
+      <div id="tags">{{ post.categories }}</div>
+    </div>
       </li>
     {% endfor %}
   </ul>
